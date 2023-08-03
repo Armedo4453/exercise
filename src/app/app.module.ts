@@ -7,7 +7,7 @@ import { Route, RouterModule } from '@angular/router';
 
 import {  HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
 import { ExercisePhysiqueModule } from './exercice-physique/exercice-physique.module';
-import { BicepsComponent } from './biceps/biceps.component';
+import { BicepsComponent } from './exercice-physique/biceps/biceps.component';
 import { InterceptInterceptor } from './intercept.interceptor';
 
 
