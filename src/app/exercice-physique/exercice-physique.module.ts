@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { BicepsComponent } from 'src/app/biceps/biceps.component';
+import { BicepsComponent } from 'src/app/exercice-physique/biceps/biceps.component';
 
 
 

@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { ExerciseService } from '../services/exercise.service';
+import { ExerciseService } from '../../services/exercise.service';
 
 @Component({
   selector: 'app-biceps',
